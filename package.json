@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sunlet.lwc-l2ogpos9-fork-l2oh3t2h",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve bKbfF1flmlMweQJtpMkF --open"
+  }
+}
